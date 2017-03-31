@@ -1,0 +1,46 @@
+{
+  "name": "angular-started-kit",
+  "version": "0.0.1",
+  "description": "Angular started kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jers73/angular-started-kit.git"
+  },
+  "keywords": [
+    "javascrpt",
+    "angular",
+    "started kit"
+  ],
+  "author": "Jorge Reyes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jers73/angular-started-kit/issues"
+  },
+  "homepage": "https://github.com/jers73/angular-started-kit#readme",
+  "devDependencies": {
+    "@ngtools/webpack": "^1.3.0",
+    "typescript": "^2.2.2",
+    "webpack": "^2.3.2"
+  },
+  "dependencies": {
+    "@angular/animations": "^4.0.1",
+    "@angular/common": "^4.0.1",
+    "@angular/compiler": "^4.0.1",
+    "@angular/compiler-cli": "^4.0.1",
+    "@angular/core": "^4.0.1",
+    "@angular/forms": "^4.0.1",
+    "@angular/http": "^4.0.1",
+    "@angular/platform-browser": "^4.0.1",
+    "@angular/platform-browser-dynamic": "^4.0.1",
+    "@angular/platform-server": "^4.0.1",
+    "@angular/platform-webworker": "^4.0.1",
+    "@angular/platform-webworker-dynamic": "^4.0.1",
+    "@angular/router": "^4.0.1",
+    "rxjs": "^5.2.0",
+    "zone.js": "^0.8.5"
+  }
+}
